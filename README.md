@@ -1,4 +1,4 @@
-# BuildifyApp
+# Buildify App
 
 A daily report application implemented from scratch with a modern user interface using Next.js and MongoDB, aimed at facilitating communication between construction engineers and clients.
 
