@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # BuildifyApp
+
+A daily report application implemented from scratch with a modern user interface using Next.js and MongoDB, aimed at facilitating communication between construction engineers and clients.
 =======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
